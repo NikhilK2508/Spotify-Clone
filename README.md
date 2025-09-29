@@ -37,12 +37,6 @@ The project replicates the **Spotify UI** including sidebar navigation, music pl
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots of your project here after running it in browser)
-
----
-
 ## 🔧 How to Run
 
 1. Clone this repository:
